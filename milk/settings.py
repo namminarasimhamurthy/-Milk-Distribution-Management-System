@@ -25,7 +25,13 @@ SECRET_KEY = 'django-insecure-5!)vl&mlz$y4ep4gd1nm-4a3t-5n@zc4a-6$t7)p*qhj5tu##2
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["milk.onrender.com", "localhost", "127.0.0.1"]
+ALLOWED_HOSTS = [
+    "milk.onrender.com",
+    "milk-distribution-management-system-kppl.onrender.com",
+    "localhost",
+    "127.0.0.1"
+]
+
 
 
 
